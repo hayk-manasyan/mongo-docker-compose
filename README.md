@@ -1,1 +1,1 @@
-# mogo-docker-compose
+# A sample mongodb docker-compose application
